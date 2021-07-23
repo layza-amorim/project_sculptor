@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/layza/Desktop/project/project/src/Sculptor.cpp
+Sculptor.hpp
+C:/Users/layza/Desktop/project/project/src/Sculptor.hpp
+iostream
+-
+fstream
+-
+
+C:/Users/layza/Desktop/project/project/src/Sculptor.hpp
+Voxel.hpp
+C:/Users/layza/Desktop/project/project/src/Voxel.hpp
+
+C:/Users/layza/Desktop/project/project/src/Voxel.hpp
+
+C:/Users/layza/Desktop/project/project/src/main.cpp
+iostream
+-
+Sculptor.hpp
+C:/Users/layza/Desktop/project/project/src/Sculptor.hpp
+
