@@ -12,3 +12,6 @@ The generated drawing was:
 
 > This image shows the sculptor.off file opened in the mashlab software
 
+
+Explication of the project (in Portuguese):
+https://youtu.be/vI4fvrJ5OnE
